@@ -1,4 +1,4 @@
-#day 1.                              Name-Jashanpreet singh 
+# Day 1                            Name-Jashanpreet singh 
 Branch-CSE
 section-C
 Registration id-25101821
